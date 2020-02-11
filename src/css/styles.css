@@ -1,0 +1,52 @@
+header{
+    /* background-color: #5d5de8;
+    color: white; */
+
+    background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+color: white;
+height: 150px;
+}
+
+.image {
+    font-size: 70px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.intro{
+    padding-top: 30px;
+}
+
+span .fa{
+    padding-top: 50px;
+    float: right;
+}
+
+ul{
+    display: flex;
+}
+.my-link .active {
+    background-color: #2193b0 !important;
+}
+
+/* .my-nav a {
+    color: white;
+}
+
+span .fa{
+    padding-right: 20px;
+} */
+
+/* .intro {
+    float: right;
+    padding-right: 200px;
+    padding-top: 30px;
+} */
+/* 
+.my-btn{
+    margin:20px;
+    
+} */
